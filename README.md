@@ -6,6 +6,7 @@
 + [View Animation](https://developer.android.com/guide/topics/graphics/view-animation.html)
 + [Property Animation](https://developer.android.com/guide/topics/graphics/prop-animation.html)
 + [Drawable Animation](https://developer.android.com/guide/topics/graphics/drawable-animation.html)
++ 
 ### Ví dụ:
 + [Property Animation](http://www.101apps.co.za/articles/a-property-animation-tutorial.html)
 + [Property Animation](http://cogitolearning.co.uk/?p=1366)
