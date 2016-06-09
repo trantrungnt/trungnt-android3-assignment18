@@ -1,5 +1,10 @@
 # trungnt-android3-assignment18
 
+##Yêu cầu
+![BTVN Animation](http://i477.photobucket.com/albums/rr132/trungepu/BTVN-Animation-CanhBX_zpscxd6xa2o.jpg)
+![Java Reffection](http://i477.photobucket.com/albums/rr132/trungepu/Java-Reffection_zpspula4ylp.jpg)
+
+
 ##Tham khảo:
 ### Lý thuyết
 + [Overview](https://developer.android.com/guide/topics/graphics/overview.html)
