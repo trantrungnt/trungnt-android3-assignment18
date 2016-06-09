@@ -48,3 +48,6 @@ Animatorset => Aninatoriinflater.loadAnimmator
 
 ```
 
+##Tham khảo ngoài
++ [Dynamically change backgroudn color with animated transition](http://stackoverflow.com/questions/18818611/dynamically-change-background-color-with-animated-transition)
+
