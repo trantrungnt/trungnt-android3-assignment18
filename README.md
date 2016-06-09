@@ -18,3 +18,33 @@
 + [Property Animation](http://cogitolearning.co.uk/?p=1366)
 + [View Animation](http://www.tutorialspoint.com/android/android_animations.htm)
 + [Drawable Animation](http://www.101apps.co.za/articles/frame-by-frame-animation-tutorial.html)
+
+##Chú ý khi học
+```
+Property Animation: Time interpolation: khoang cach/ duration; khoang cach = |x - next.X| / 4000
+- Frame refresh delay
+Animator sets
+- repeat count and behavior
+
++ non-linear animation
++ linear animation
+- valueAnimator
+
+Propertiy Ani - View Ani
+Java Reffection
+- View animation ---> khi click vao button o vi tri thu 2 thi ko duoc, con dung Propertie Ani co the thao tac duoc khi button di chuyen o vi tri moi
+- View Ani thao tac nhanh (kieu anh ao) >< Propertiy Ani thao tac cham hon chut
+- View Ani code it hon >< Properti Ani code nhieu hon 
+android.animation
++ Api Overview: Animaotor classs, Evaluators, time interpolator
+ObjectAnimator.ofFloat(foo, "alpha", 0f, 1f)
++ Animator.AnimatorListener
++ LayoutTranstition class => setVisible 
+ArgbEvaluator => evaluate(), Point
+<objectAnimatio => chi dung duoc tu Android 3.0 tro len ()
+ValueAnimator (trong xml)
+Animatorset => Aninatoriinflater.loadAnimmator
+
+
+```
+
