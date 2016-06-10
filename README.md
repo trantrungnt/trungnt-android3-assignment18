@@ -57,3 +57,4 @@ Animatorset => Aninatoriinflater.loadAnimmator
 + [Animations](http://txnam.net/wp-content/uploads/txnam/Bai%20Giang/Android%202%20AD13L/Android%202%20-%20T6.pdf)
 + [Hiệu ứng ảnh động](https://fuagile.wordpress.com/2013/06/07/anh-va-hieu-ung-dong-trong-android/)
 + [Animation Button](http://trickyandroid.com/simple-ripple-reveal-elevation-tutorial/)
++ [Changing Background Color of view with object animator](https://forums.xamarin.com/discussion/5692/changing-backgroundcolor-of-view-with-objectanimator)
