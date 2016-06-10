@@ -52,4 +52,5 @@ Animatorset => Aninatoriinflater.loadAnimmator
 + [Dynamically change backgroudn color with animated transition](http://stackoverflow.com/questions/18818611/dynamically-change-background-color-with-animated-transition)
 + [Library Android Material Info Turtorial](https://riggaroo.co.za/github-library-android-material-info-tutorial/)
 + [Animations](https://guides.codepath.com/android/Animations)
++ [Android Arsenal](https://android-arsenal.com/tag/13)
 
