@@ -53,4 +53,4 @@ Animatorset => Aninatoriinflater.loadAnimmator
 + [Library Android Material Info Turtorial](https://riggaroo.co.za/github-library-android-material-info-tutorial/)
 + [Animations](https://guides.codepath.com/android/Animations)
 + [Android Arsenal](https://android-arsenal.com/tag/13)
-
++ [Animations](https://viblo.asia/le.van.ban/posts/zoZVRgYQGmg5)
