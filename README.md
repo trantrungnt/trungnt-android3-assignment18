@@ -54,3 +54,4 @@ Animatorset => Aninatoriinflater.loadAnimmator
 + [Animations](https://guides.codepath.com/android/Animations)
 + [Android Arsenal](https://android-arsenal.com/tag/13)
 + [Animations](https://viblo.asia/le.van.ban/posts/zoZVRgYQGmg5)
++ [Animations](http://txnam.net/wp-content/uploads/txnam/Bai%20Giang/Android%202%20AD13L/Android%202%20-%20T6.pdf)
