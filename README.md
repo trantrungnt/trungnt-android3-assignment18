@@ -59,3 +59,4 @@ Animatorset => Aninatoriinflater.loadAnimmator
 + [Animation Button](http://trickyandroid.com/simple-ripple-reveal-elevation-tutorial/)
 + [Changing Background Color of view with object animator](https://forums.xamarin.com/discussion/5692/changing-backgroundcolor-of-view-with-objectanimator)
 + [How to add ripple effect to android  button](http://www.viralandroid.com/2015/09/how-to-add-ripple-effect-to-android-button.html)
++ [Android SDK creating a simple property animation mobile](http://code.tutsplus.com/tutorials/android-sdk-creating-a-simple-property-animation--mobile-15022)
